@@ -24,7 +24,6 @@
     "build:tailwind": "NODE_ENV=production postcss public/tailwind.css -o public/index.css"
   },
   "dependencies": {
-    "interactjs": "^1.4.0-rc.13",
     "sirv-cli": "^0.4.4"
   }
 }
